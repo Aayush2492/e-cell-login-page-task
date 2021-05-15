@@ -2,26 +2,29 @@ import React from 'react';
 
 function App() {
   return (
+    <div className="body">
+        <div className="top">
 
-        <div class="form">
+            <h1>Welcome</h1>
 
-          <div class="login">
-
-            <div class="login-header">
-              <h2>WELCOME TO E-CELL</h2>
+            <div className="text">
+                <input type="text" placeholder="Username"/>
             </div>
 
-          </div>
-
-          <form class="login-form">
-
-            <input type="text" placeholder="Username"/>
-            <input type="password" placeholder="Password"/>
-            <button>log in</button>
-
-          </form>
+            <div className="text">
+                <input type="password" placeholder="Password"/>
+            </div>
+            
+            <div className="forgot-password">
+                <a href="#" className="anchor">
+                    Forgot password
+                </a>
+            </div>
+            
+            <input className="button "type="button" value="Login"/>
 
         </div>
+    </div>
 
   );
 }
