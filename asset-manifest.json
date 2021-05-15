@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/e-cell-login-page-task/static/css/main.3fdfcc95.chunk.css",
+    "main.js": "/e-cell-login-page-task/static/js/main.0cd0531e.chunk.js",
+    "main.js.map": "/e-cell-login-page-task/static/js/main.0cd0531e.chunk.js.map",
+    "runtime-main.js": "/e-cell-login-page-task/static/js/runtime-main.f3b1dbd4.js",
+    "runtime-main.js.map": "/e-cell-login-page-task/static/js/runtime-main.f3b1dbd4.js.map",
+    "static/js/2.2f7055bd.chunk.js": "/e-cell-login-page-task/static/js/2.2f7055bd.chunk.js",
+    "static/js/2.2f7055bd.chunk.js.map": "/e-cell-login-page-task/static/js/2.2f7055bd.chunk.js.map",
+    "static/js/3.47c456ae.chunk.js": "/e-cell-login-page-task/static/js/3.47c456ae.chunk.js",
+    "static/js/3.47c456ae.chunk.js.map": "/e-cell-login-page-task/static/js/3.47c456ae.chunk.js.map",
+    "index.html": "/e-cell-login-page-task/index.html",
+    "static/css/main.3fdfcc95.chunk.css.map": "/e-cell-login-page-task/static/css/main.3fdfcc95.chunk.css.map",
+    "static/js/2.2f7055bd.chunk.js.LICENSE.txt": "/e-cell-login-page-task/static/js/2.2f7055bd.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/e-cell-login-page-task/static/media/background.2fdded05.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3b1dbd4.js",
+    "static/js/2.2f7055bd.chunk.js",
+    "static/css/main.3fdfcc95.chunk.css",
+    "static/js/main.0cd0531e.chunk.js"
+  ]
+}
